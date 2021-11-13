@@ -1,0 +1,102 @@
+<?xml version="1.0"?>
+<apt sam="false" revision="6" sam_path="D:\Steam\steamapps\common\X-Plane 11\Custom Scenery\Airport - KBFM\sam.xml">
+	<plugin_config sam="2.2.0" Seasons="1.0.4" GlobalTrees="1.0.3" />
+	<airport name="Mobile Downtown" icao="KBFM" iata="BFM" elevation="23" latitude="30.626777778000001" longitude="-88.068083333000004">
+		<startup_location latitude="30.63569631" longitude="-88.076442929999999" heading="275.58999999999997" name="Signature FBO" airline_code="" type="tie_down" width_code="c" operation_type="none" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.636634069999999" longitude="-88.077579959999994" heading="-105.70999999999999" name="Cargo Ramp" airline_code="" type="gate" width_code="e" operation_type="none" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631830180000001" longitude="-88.069919060000004" heading="179.62" name="Airbus 1" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631829809999999" longitude="-88.070353139999995" heading="180" name="Airbus 2" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631829339999999" longitude="-88.070787379999999" heading="180" name="Airbus 3" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631828909999999" longitude="-88.071221499999993" heading="180" name="Airbus 4" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.63179508" longitude="-88.072060390000004" heading="120.58" name="Airbus 5" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631830709999999" longitude="-88.071656320000002" heading="180" name="Airbus 6" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631396240000001" longitude="-88.071975859999995" heading="90" name="Airbus 7" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.631022609999999" longitude="-88.071975769999995" heading="90" name="Airbus 8" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.630649139999999" longitude="-88.071975399999999" heading="90" name="Airbus 9" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.630273469999999" longitude="-88.071975699999996" heading="91.060000000000002" name="Airbus 10" airline_code="" type="gate" width_code="c" operation_type="airline" is_legacy="false">
+			<airplane_type type="heavy" />
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.6331013" longitude="-88.068778440000003" heading="0" name="Ramp Start 27" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.63310289" longitude="-88.069439310000007" heading="0" name="Ramp Start 26" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.633106420000001" longitude="-88.069903920000002" heading="0" name="Ramp Start 25" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.633104240000002" longitude="-88.070390470000007" heading="0" name="Ramp Start 24" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+		<startup_location latitude="30.633088399999998" longitude="-88.070865479999995" heading="0" name="Ramp Start 23" airline_code="" type="gate" width_code="b" operation_type="general_aviation" is_legacy="false">
+			<airplane_type type="jets" />
+			<airplane_type type="turboprops" />
+			<airplane_type type="props" />
+		</startup_location>
+	</airport>
+</apt>
