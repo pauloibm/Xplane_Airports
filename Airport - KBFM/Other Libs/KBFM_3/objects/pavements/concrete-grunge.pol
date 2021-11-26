@@ -1,0 +1,12 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE concrete-grunge.png
+LOD 3000
+SURFACE concrete
+SCALE 60 50
+MIRROR

@@ -1,0 +1,18 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP markings +3
+TEXTURE 20KM_LINE.png
+TEXTURE_NORMAL 1 asfalto_nml.png
+BUMP_LEVEL 0.1
+
+LOD 3000
+TEX_WIDTH 1024
+SCALE 33 120
+S_OFFSET 0		0	512		1024
+
+
+
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

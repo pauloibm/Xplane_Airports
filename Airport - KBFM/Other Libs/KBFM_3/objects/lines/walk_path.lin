@@ -1,0 +1,15 @@
+A
+850
+LINE_PAINT
+
+TEXTURE ax_Taxilines_1.png
+TEXTURE_NORMAL 1 ax_Taxilines_1_nml.png
+BUMP_LEVEL 0.3
+
+LOD 3000
+TEX_WIDTH 4096
+SCALE 26 18
+S_OFFSET 0		3320		3439		3559
+LAYER_GROUP markings +3
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

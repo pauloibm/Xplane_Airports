@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP taxiways +1
+
+TEXTURE pavement-sujo.png
+SURFACE concrete
+SCALE 45 35
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

@@ -1,0 +1,10 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+TEXTURE red_square.png
+SCALE 4 2 
+LAYER_GROUP markings +2
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

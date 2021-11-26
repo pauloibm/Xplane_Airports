@@ -1,0 +1,12 @@
+A
+850
+LINE_PAINT
+
+TEXTURE walk_path.png
+LOD 3000
+TEX_WIDTH 512
+SCALE 3 7.5
+S_OFFSET 0		0		90		511
+LAYER_GROUP markings -1
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

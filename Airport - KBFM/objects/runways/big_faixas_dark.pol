@@ -1,0 +1,10 @@
+A
+850
+
+DRAPED_POLYGON
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+
+LAYER_GROUP  taxiways +3
+TEXTURE big_faixas_dark.png
+LOD 3000
+SCALE 1 1

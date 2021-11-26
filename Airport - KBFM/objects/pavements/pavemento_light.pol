@@ -1,0 +1,15 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE pavemento_light.png
+TEXTURE_NORMAL 1 pavemento_nml.png
+BUMP_LEVEL 0.01
+LOD 3000
+SURFACE asphalt
+SCALE 55 55
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

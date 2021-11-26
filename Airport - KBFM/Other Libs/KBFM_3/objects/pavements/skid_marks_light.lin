@@ -1,0 +1,11 @@
+A
+850
+LINE_PAINT
+
+TEXTURE skid_marks_light.png
+LOD 6000
+TEX_WIDTH 1024
+SCALE 25 25
+S_OFFSET 0		0		512		1024
+LAYER_GROUP markings +3
+

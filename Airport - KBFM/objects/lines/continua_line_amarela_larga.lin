@@ -1,0 +1,12 @@
+A
+850
+LINE_PAINT
+
+TEXTURE continua_line_amarela.png
+LOD 3000
+TEX_WIDTH 128
+SCALE 2.2 10
+S_OFFSET 0		0		64		128
+LAYER_GROUP markings +3
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

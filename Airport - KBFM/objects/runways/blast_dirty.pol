@@ -1,0 +1,13 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE blast_dirty.png
+LOD 3000
+SURFACE asphalt
+SCALE 1 1
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

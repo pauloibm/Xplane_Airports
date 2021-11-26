@@ -1,0 +1,21 @@
+A
+850
+
+LINE_PAINT
+
+
+TEXTURE linha_parking_space_yellow.png
+
+LOD 3000
+
+TEX_WIDTH 512
+
+SCALE 6 3
+
+S_OFFSET 0		0	0	512
+
+S_OFFSET 1		0	0	512
+
+LAYER_GROUP markings +2
+
+

@@ -1,0 +1,10 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP taxiways +3
+
+TEXTURE ax-concrete.png
+SURFACE concrete
+SCALE 40 40
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

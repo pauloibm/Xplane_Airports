@@ -1,0 +1,16 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE ApronConcrete.png
+TEXTURE_NORMAL 1 ApronConcrete_NML.png
+BUMP_LEVEL 0.01
+LOD 3000
+SURFACE concrete
+SCALE 50 50
+MIRROR
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

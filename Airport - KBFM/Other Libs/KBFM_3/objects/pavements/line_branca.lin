@@ -1,0 +1,25 @@
+A
+850
+
+LINE_PAINT
+
+
+TEXTURE line_branca.png
+TEXTURE_NORMAL 1 pavemento_nml.png
+BUMP_LEVEL 0.2
+
+LOD 3000
+
+TEX_WIDTH 512
+
+SCALE 1 1
+
+S_OFFSET 0		0	256	512
+
+S_OFFSET 1		0	256	512
+
+LAYER_GROUP markings +2
+
+
+MIRROR
+

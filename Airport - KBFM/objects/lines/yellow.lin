@@ -1,0 +1,16 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP markings +2
+TEXTURE ax_Taxilines_1.png
+TEXTURE_NORMAL 1 ax_Taxilines_1_nml.png
+BUMP_LEVEL 0.2
+
+LOD 10000
+TEX_WIDTH 4096
+SCALE 12 6
+S_OFFSET 0		10		80		150
+
+
+

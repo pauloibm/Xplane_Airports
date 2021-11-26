@@ -1,0 +1,10 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+TEXTURE runway_ahead.png
+SCALE 4 2 
+LAYER_GROUP markings -1
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

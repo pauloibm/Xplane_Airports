@@ -1,0 +1,11 @@
+A
+850
+DRAPED_POLYGON
+
+
+TEXTURE arrow.png
+SCALE 6 6
+
+LAYER_GROUP markings +2
+
+SURFACE concrete

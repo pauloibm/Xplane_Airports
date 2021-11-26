@@ -1,0 +1,11 @@
+A
+850
+DRAPED_POLYGON
+
+DECAL_LIB lib/g10/decals/maquify_2_green_key.dcl
+LAYER_GROUP  taxiways +1
+TEXTURE SOIL_GRASS1.png
+LOD 3000
+
+SCALE 50 50
+MIRROR

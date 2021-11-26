@@ -1,0 +1,14 @@
+A
+850
+
+LINE_PAINT
+
+TEXTURE center_marks.png
+LOD 3000
+TEX_WIDTH 1024
+SCALE 30 30
+S_OFFSET 0		0	512	1024
+LAYER_GROUP markings +5
+MIRROR
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

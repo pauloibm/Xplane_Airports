@@ -1,0 +1,12 @@
+A
+850
+LINE_PAINT
+
+TEXTURE continua_line.png
+LOD 20000
+TEX_WIDTH 128
+SCALE 3 50
+S_OFFSET 0		0		64		128
+LAYER_GROUP markings -2
+
+

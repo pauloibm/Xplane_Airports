@@ -1,0 +1,12 @@
+A
+850
+LINE_PAINT
+
+TEXTURE faixa_horiz.png
+LOD 3000
+TEX_WIDTH 512
+SCALE 8 10
+S_OFFSET 0		0		0		512
+LAYER_GROUP markings -2
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

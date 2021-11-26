@@ -1,0 +1,8 @@
+A
+850
+DRAPED_POLYGON
+LAYER_GROUP taxiways +3
+
+TEXTURE Asphalt_Light.png
+SURFACE asphalt
+SCALE 30 30

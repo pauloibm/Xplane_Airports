@@ -1,0 +1,15 @@
+A
+850
+LINE_PAINT
+
+TEXTURE borda_asphalt_dark.png
+TEXTURE_NORMAL 1 borda_asphalt_dark_NML.png
+BUMP_LEVEL 0.2
+LOD 3000
+TEX_WIDTH 512
+SCALE 9 30
+S_OFFSET 0		1		10		511
+LAYER_GROUP taxiways +1
+MIRROR
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

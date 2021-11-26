@@ -1,0 +1,14 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP markings +2
+TEXTURE road_transp_mono.png
+LOD 3000
+TEX_WIDTH 512
+SCALE 17 50
+
+S_OFFSET 0		0		256		512
+
+MIRROR
+

@@ -1,0 +1,15 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP taxiways +1
+TEXTURE road_layers2.png
+LOD 3000
+TEX_WIDTH 512
+SCALE 17 30
+S_OFFSET 0		244		365		486
+S_OFFSET 1		20		120		220
+
+
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

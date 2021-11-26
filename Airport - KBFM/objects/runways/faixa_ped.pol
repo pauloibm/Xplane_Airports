@@ -1,0 +1,11 @@
+A
+850
+DRAPED_POLYGON
+
+LAYER_GROUP markings +3
+TEXTURE faixa_ped.png
+TEXTURE_NORMAL 1 faixas_nml.png
+BUMP_LEVEL 0.2
+SCALE 6 6
+
+SURFACE concrete

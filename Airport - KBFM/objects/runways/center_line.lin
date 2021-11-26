@@ -1,0 +1,14 @@
+A
+850
+LINE_PAINT
+
+TEXTURE center_line.png
+TEXTURE_NORMAL 1 faixas_nml.png
+BUMP_LEVEL 0.2
+LOD 3000
+TEX_WIDTH 256
+SCALE 50 50
+S_OFFSET 0		0		128		256
+LAYER_GROUP markings -2
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

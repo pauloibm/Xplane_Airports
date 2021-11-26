@@ -1,0 +1,12 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP markings -2
+TEXTURE lighterMarksTriang.png
+
+SURFACE asphalt
+
+SCALE 1.2 1.2

@@ -1,0 +1,13 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +3
+TEXTURE pavemento_escuro.png
+LOD 3000
+SURFACE asphalt
+SCALE 55 55
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

@@ -1,0 +1,18 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP markings +1
+TEXTURE pavemento4-faixas_clean2.png
+TEXTURE_NORMAL 1 pavemento4-faixas_clean_NML.png
+BUMP_LEVEL 0.2
+
+LOD 3000
+TEX_WIDTH 2048
+SCALE 32 50
+S_OFFSET 0		0		1024		2048
+MIRROR
+SURFACE concrete
+ATTR_shiny_rat 1.0
+ATTR_hard
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

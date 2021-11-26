@@ -1,0 +1,18 @@
+A
+850
+LINE_PAINT
+
+LAYER_GROUP markings +3
+TEXTURE road_transp.png
+TEXTURE_NORMAL 1 pavemento_nml.png
+BUMP_LEVEL 0.2
+
+LOD 3000
+TEX_WIDTH 512
+SCALE 17 30
+
+S_OFFSET 1		20		120		220
+S_OFFSET 0		244		365		486
+
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

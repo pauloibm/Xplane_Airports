@@ -1,0 +1,11 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE dirty_borda_end.png
+LOD 3000
+SURFACE asphalt
+SCALE 10 10

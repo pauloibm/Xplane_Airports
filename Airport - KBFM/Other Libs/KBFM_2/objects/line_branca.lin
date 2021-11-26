@@ -1,0 +1,17 @@
+A
+850
+
+LINE_PAINT
+
+TEXTURE line_branca.png
+LOD 3000
+TEX_WIDTH 512
+
+SCALE 5.5 50
+
+S_OFFSET 0		0	256	512
+
+LAYER_GROUP markings +5
+
+MIRROR
+

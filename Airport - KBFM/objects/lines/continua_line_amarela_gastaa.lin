@@ -1,0 +1,11 @@
+A
+850
+LINE_PAINT
+
+TEXTURE continua_line_amarela_gasta.png
+LOD 3000
+TEX_WIDTH 128
+SCALE 1 10
+S_OFFSET 0		0		64		128
+LAYER_GROUP markings -2
+

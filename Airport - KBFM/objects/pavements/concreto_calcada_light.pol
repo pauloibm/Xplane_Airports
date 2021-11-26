@@ -1,0 +1,16 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE concreto_calcada_light.png
+TEXTURE_NORMAL 1 concreto_calcada_NML.png
+BUMP_LEVEL 0.01
+LOD 3000
+SURFACE concrete
+SCALE 60 60
+MIRROR
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

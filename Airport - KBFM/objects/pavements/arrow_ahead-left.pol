@@ -1,0 +1,10 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  markings -2
+TEXTURE arrow_ahead-left.png
+LOD 3000
+SCALE 1 1

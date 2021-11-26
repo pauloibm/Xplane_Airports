@@ -1,0 +1,18 @@
+A
+850
+
+LINE_PAINT
+
+
+TEXTURE broken_APRON_line_white.png
+
+LOD 3000
+
+TEX_WIDTH 512
+SCALE 3 5
+S_OFFSET 0		0	256	512
+LAYER_GROUP markings -2
+
+
+MIRROR
+

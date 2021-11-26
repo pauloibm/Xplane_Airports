@@ -1,0 +1,16 @@
+A
+850
+LINE_PAINT
+
+TEXTURE pavemento4-faixas_darker.png
+TEXTURE_NORMAL 1 pavemento_nml.png
+BUMP_LEVEL 0.02
+LOD 6000
+TEX_WIDTH 4096
+SCALE 55 55
+S_OFFSET 0		0		4095		4096
+LAYER_GROUP taxiways +2
+MIRROR
+
+ATTR_draped
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

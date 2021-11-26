@@ -1,0 +1,12 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE estacio_spots_2_single.png
+LOD 3000
+SURFACE concrete
+SCALE 60 60
+MIRROR

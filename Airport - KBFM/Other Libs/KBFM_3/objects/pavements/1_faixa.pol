@@ -1,0 +1,14 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP  markings +2
+TEXTURE 1_faixa.png
+TEXTURE_NORMAL 1 pavemento_nml.png
+BUMP_LEVEL 0.2
+
+LOD 3000
+SURFACE asphalt
+SCALE 1 1

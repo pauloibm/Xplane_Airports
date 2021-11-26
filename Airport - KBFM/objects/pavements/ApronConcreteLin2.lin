@@ -1,0 +1,15 @@
+A
+850
+LINE_PAINT
+
+TEXTURE ApronConcrete.png
+TEXTURE_NORMAL 1 ApronConcrete_NML.png
+BUMP_LEVEL 0.01
+LOD 3000
+TEX_WIDTH 4096
+SCALE 60 60
+S_OFFSET 0		0		4095		4096
+LAYER_GROUP markings +1
+MIRROR
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl

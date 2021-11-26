@@ -1,0 +1,14 @@
+A
+850
+
+DRAPED_POLYGON
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE Rwy_10_SBGL.png
+TEXTURE_NORMAL 1 asfalto_nml.png
+BUMP_LEVEL 0.01
+LOD 6000
+SURFACE asphalt
+SCALE 30 50

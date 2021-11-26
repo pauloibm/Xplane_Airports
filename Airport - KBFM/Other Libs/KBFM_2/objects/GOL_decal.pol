@@ -1,0 +1,12 @@
+A
+850
+
+DRAPED_POLYGON
+
+
+LAYER_GROUP markings +5
+TEXTURE GOL-decal.png
+
+SURFACE concrete
+
+SCALE 1.0 1.0

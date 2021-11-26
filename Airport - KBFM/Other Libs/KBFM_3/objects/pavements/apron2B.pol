@@ -1,0 +1,14 @@
+A
+850
+
+DRAPED_POLYGON
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
+
+
+LAYER_GROUP  taxiways +1
+TEXTURE apron2B.png
+TEXTURE_NORMAL 1 apron2B_NML.png
+BUMP_LEVEL 0.2
+LOD 3000
+SURFACE asphalt
+SCALE 20 30

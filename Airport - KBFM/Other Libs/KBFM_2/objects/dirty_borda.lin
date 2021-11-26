@@ -1,0 +1,12 @@
+A
+850
+LINE_PAINT
+
+TEXTURE dirty_borda.png
+LOD 3000
+TEX_WIDTH 2048
+SCALE 20 90
+S_OFFSET 0		0		0		2047
+LAYER_GROUP markings -2
+
+DECAL_LIB lib/g10/decals/apt_asphalt.dcl
